@@ -1,0 +1,7 @@
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\bin\Debug\CodeBasedTestThree.exe.config
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\bin\Debug\CodeBasedTestThree.exe
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\bin\Debug\CodeBasedTestThree.pdb
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\obj\Debug\CodeBasedTestThree.csproj.CoreCompileInputs.cache
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\obj\Debug\CodeBasedTestThree.exe
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\obj\Debug\CodeBasedTestThree.pdb
+C:\Users\sanidhyav\source\repos\CodeBasedTestThree\CodeBasedTestThree\obj\Debug\CodeBasedTestThree.csproj.AssemblyReference.cache
