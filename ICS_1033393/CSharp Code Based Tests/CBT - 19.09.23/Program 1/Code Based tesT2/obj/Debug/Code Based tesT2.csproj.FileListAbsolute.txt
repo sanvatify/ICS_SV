@@ -1,0 +1,6 @@
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\bin\Debug\Code Based tesT2.exe.config
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\bin\Debug\Code Based tesT2.exe
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\bin\Debug\Code Based tesT2.pdb
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\obj\Debug\Code Based tesT2.csproj.CoreCompileInputs.cache
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\obj\Debug\Code Based tesT2.exe
+C:\Users\sanidhyav\source\repos\Code Based tesT2\Code Based tesT2\obj\Debug\Code Based tesT2.pdb
