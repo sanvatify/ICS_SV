@@ -1,0 +1,6 @@
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\obj\Debug\Assignment7Server.csproj.AssemblyReference.cache
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\obj\Debug\Assignment7Server.csproj.CoreCompileInputs.cache
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\bin\Debug\Assignment7Server.dll
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\bin\Debug\Assignment7Server.pdb
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\obj\Debug\Assignment7Server.dll
+C:\Users\sanidhyav\source\repos\Assignment7Server\Assignment7Server\obj\Debug\Assignment7Server.pdb
