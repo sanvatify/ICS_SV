@@ -1,0 +1,7 @@
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\bin\Debug\Pr1032023.exe.config
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\bin\Debug\Pr1032023.exe
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\bin\Debug\Pr1032023.pdb
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\obj\Debug\Pr1032023.csproj.AssemblyReference.cache
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\obj\Debug\Pr1032023.csproj.CoreCompileInputs.cache
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\obj\Debug\Pr1032023.exe
+C:\Users\sanidhyav\source\repos\Pr1032023\Pr1032023\obj\Debug\Pr1032023.pdb
