@@ -1,0 +1,7 @@
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\bin\Debug\CaseStudyProject.exe.config
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\bin\Debug\CaseStudyProject.exe
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\bin\Debug\CaseStudyProject.pdb
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.csproj.AssemblyReference.cache
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.csproj.CoreCompileInputs.cache
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.exe
+C:\Users\sanidhyav\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.pdb
