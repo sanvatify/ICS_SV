@@ -80,7 +80,7 @@ insert into customer values(
 );
 
 select * from customer; --displaying the entire table
-select name from customer where address_city like '%o%';
+select name from customer where address_city like '%o%'; --display customer whose cities have o
 
 create table orders(
 oid int unique not null,

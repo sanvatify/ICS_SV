@@ -1,0 +1,22 @@
+select * from book where author like '%er'; --display author names ending with er
+
+select b.id, b.title, r.reviewer_name --display using innerjoin
+from book as b
+inner join reviews as r on b.id = r.book_id;
+
+select reviewer_name from reviews group by reviewer_name
+having count(book_id)>1; --display reviewer who reviewed more than one book
+
+select name from customer where address_city like '%o%'; --display customer whose cities have o
+
+select order_date, (select count(distinct customer_id) --using a subquery to count
+from orders o2
+where o1.order_date = o2.order_date) as total_customers
+from orders o1
+group by order_date;
+
+select lower(name) as lower_case_name --display the employees in lower case 
+from employee where salary is null;
+
+select gender, count(*) as total_count --grouping by gender
+from student_details group by gender;
