@@ -14,7 +14,8 @@ insert into Holidays (holiday_date, holiday_name) values
 ('2023-10-02', 'Gandhi Jayanthi'),
 ('2023-10-24', 'Vijaya Dashami'),
 ('2023-11-13', 'Diwali'),
-('2023-12-25', 'Christmas');
+('2023-12-25', 'Christmas'),
+('2023-02-24', 'Sanidhya National Day');
 
 
 
