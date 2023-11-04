@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Locomotive Store</title>
+    <link rel="stylesheet" type="text/css" href="LocomotiveStoreStyle.css">
+</head>
+<body>
+    <form id="form 1" runrat="server">
+        <h1>Locomotive Store</h1>
+        <div class="container">
+            <label class="info-label">Select A Locomotive From The DropDown List: </label>
+            <asp:DropDownList ID="ddlLocomotives" runrat="server" onchange="updateUmage()">
+                <asp:ListItem Text="WAP4" value="WAP4" />
+                <asp:ListItem Text="WAP7" value="WAP7" />
+                <asp:ListItem Text="WAP1" value="WAP1" />
+                <asp:ListItem Text="WAG5" value="WAG5" />
+                <asp:ListItem Text="WAG5HA" value="WAG5HA" />
+                <asp:ListItem Text="WAG7" value="WAG7" />
+                <asp:ListItem Text="WAG9" value="WAG9" />
+                <asp:ListItem Text="WAG9HH" value="WAG9HH" />
+                <asp:ListItem Text="WAG11" value="WAG11" />
+                <asp:ListItem Text="WAG12B" value="WAG12B" />
+            </asp:DropDownList>
+            <asp:Button id="btnShowCost" runrat="server" text="Show Cost" onClientClick ="displayCost()" cssclass ="cost-label"/>
+            <img id="imgLocomotive" class="locomotive-image" runrat="server" src="" alt="Locomotive Image"/>
+        </div>
+    </form>
+    <script>
+        function updateImage() {
+            var selectedLocomotive = document.getElementById('<%=ddlLocomotives.ClientID%>').value;
+            var imgElement = document.getElementById('imgLocomotive');
+            imgElement.src = 'images/' + selectedLocomotive + '.jpg';
+        }
+        function displayCost() {
+            var selectedLocomotive = document.getElementById('<%=ddlLocomotives.ClientID%>').value;
+            var cost = GetCost(selectedLocomotive);
+            var label, cost = document.getElementById('<%=labelCost.ClientID%>');
+            labelCost.innerText = 'Cost: $' + cost.toFixed(2);
+        }
+        function GetCost(locomotiveName){
+            switch (locomotiveName) {
+                case 'WAP4': return 120000000.00;
+                case 'WAP7': return 460000000.00;
+                case 'WAP1': return 60000000.00;
+                case 'WAG5': return 7000000.00;
+                case 'WAG5HA': return 8000000.00;
+                case 'WAG7': return 110000000.00;
+                case 'WAG9': return 880000000.00;
+                case 'WAG9HH': return 940000000.00;
+                case 'WAG11': return 1540000000.00;
+                case 'WAG12B': return 2640000000.00;
+            }
+        }
+    </script>
+</body>
+</html>
