@@ -1,0 +1,2 @@
+C:\Users\sanidhyav\source\repos\CodeBasedTestMVC\CodeBasedTestMVC\obj\Debug\CodeBasedTestMVC.csproj.AssemblyReference.cache
+C:\Users\sanidhyav\source\repos\CodeBasedTestMVC\CodeBasedTestMVC\obj\Debug\CodeBasedTestMVC.csproj.CoreCompileInputs.cache
